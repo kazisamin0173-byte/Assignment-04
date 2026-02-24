@@ -1,8 +1,8 @@
 1. What is the difference between getElementById, getElementsByClassName, and querySelector / querySelectorAll?
 
-Ans: getElementById → selects one element using its id.
+Ans: getElementById - selects one element using its id.
 
-getElementsByClassName → selects multiple elements using a class name (live collection).
+getElementsByClassName - selects multiple elements using a class name (live collection).
 
 querySelector - selects the first element that matches a CSS selector.
 
@@ -11,9 +11,9 @@ querySelectorAll - selects all elements that match a CSS selector.
 2. How do you create and insert a new element into the DOM?
 
 Ans:
-1.Create the element → using document.createElement()
-2 . Add content or attributes → like text, class, id, etc.
-3️. Insert it into the DOM → using methods like appendChild(), append()
+1.Create the element - using document.createElement()
+2 . Add content or attributes - like text, class, id, etc.
+3️. Insert it into the DOM - using methods like appendChild(), append()
 
 3. What is Event Bubbling? And how does it work?
 
