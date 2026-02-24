@@ -4,7 +4,7 @@ Ans: getElementById → selects one element using its id.
 
 getElementsByClassName → selects multiple elements using a class name (live collection).
 
-querySelector → selects the first element that matches a CSS selector.
+querySelector - selects the first element that matches a CSS selector.
 
 querySelectorAll - selects all elements that match a CSS selector.
 
