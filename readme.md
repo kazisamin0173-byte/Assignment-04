@@ -6,7 +6,7 @@ getElementsByClassName → selects multiple elements using a class name (live co
 
 querySelector → selects the first element that matches a CSS selector.
 
-querySelectorAll → selects all elements that match a CSS selector
+querySelectorAll - selects all elements that match a CSS selector.
 
 2. How do you create and insert a new element into the DOM?
 
